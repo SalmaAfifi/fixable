@@ -1,3 +1,6 @@
 [submodule "fixable-backend"]
 	path = fixable-backend
 	url = https://github.com/SalmaAfifi/fixable-backend.git
+[submodule "fixable-frontend"]
+	path = fixable-frontend
+	url = https://github.com/SalmaAfifi/fixable-frontend.git
